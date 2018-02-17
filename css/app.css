@@ -1,7 +1,24 @@
 div {
-  border: 0.5px solid black;
+  /*border: 0.5px solid black;*/
+
 }
 
-callout{
+.callout{
   font-size: 2rem;
+}
+p{
+  font-size: 1.5rem;
+
+}
+
+.modulo{
+  background-color:
+}
+
+div[class^="callout primary"]{
+  text-align: center;
+}
+
+span{
+  font-size: 1rem;
 }
